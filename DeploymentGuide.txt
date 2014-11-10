@@ -1,0 +1,25 @@
+0.
+The generated data is in JSON directory
+
+-------------
+If you want to regenerate data from the script:
+
+1.
+Open JsonGenerate.php and change lines to your mysql info
+
+	$servername = "localhost";
+	$username = "root";
+	$password = "root";
+
+2.
+Import data from sql file:
+
+	$ mysql -u root -p
+	mysql> create database jsonDB;
+	mysql> use jsonDB;
+	mysql> source data.sql;
+
+3.
+Run php script:
+
+	php JsonGenerate.php

@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Boring",
+        "comment": "This is rather boring.",
+        "added": "2014-04-03T18:40:18.143Z",
+        "mediaID": "105",
+        "author": {
+            "name": "Samuel Jackson",
+            "email": "samuel.jackson111@gmail.com"
+        }
+    },
+    {
+        "title": "This is awesome",
+        "comment": "This template saved my life many times.",
+        "added": "2014-04-03T18:38:18.143Z",
+        "mediaID": "105",
+        "author": {
+            "name": "Peter Jackson",
+            "email": "peter.jackson111@gmail.com"
+        }
+    },
+    {
+        "title": "Zotero",
+        "comment": "Zotero has capability to switch between different paper styles depending on the conference you are applying for.",
+        "added": "2014-04-03T18:38:18.143Z",
+        "mediaID": "105",
+        "author": {
+            "name": "Janet Freud",
+            "email": "janet.freud111@gmail.com"
+        }
+    },
+    {
+        "title": "I like APA",
+        "comment": "I like APA style more than Zotero",
+        "added": "2014-04-03T18:38:18.143Z",
+        "mediaID": "105",
+        "author": {
+            "name": "Jack Sullivan",
+            "email": "jack.sullivan111@gmail.com"
+        }
+    }
+]

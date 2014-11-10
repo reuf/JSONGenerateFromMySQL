@@ -1,0 +1,559 @@
+[
+    {
+        "id": "103",
+        "seriesId": "0",
+        "title": "Mirror_mirror_on_the_wall.avi",
+        "added": "2014-04-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "5",
+        "rating": "7",
+        "ratings": "12",
+        "isLinkedMedia": "0",
+        "link": "",
+        "ext": "avi",
+        "comments": "2",
+        "duration": "5",
+        "size": "404252",
+        "mimeType": "video\/x-msvideo",
+        "hasTranscript": "1",
+        "transcriptExt": "vob",
+        "transcriptSize": "4252",
+        "transcriptMimeType": "text\/plain",
+        "additionalFiles": [
+            {
+                "title": "sample",
+                "ext": "avi",
+                "size": "404252",
+                "mimeType": "video\/x-msvideo"
+            }
+        ],
+        "summary": "Man jumps out of the mirror.",
+        "language": "English",
+        "hasCaptions": "1",
+        "captionsExt": "cap",
+        "captionsRating": "7",
+        "captionsRatings": "3",
+        "pulseId": "0",
+        "description": "Mirror is shown on the wal. All of a sudden, mirror starts to behave strangely. Man jumps out of the mirror with loud scream in the background.",
+        "author": {
+            "name": "Peter Jackson",
+            "email": "peter.jackson111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "science",
+                "usageCount": "4"
+            }
+        ]
+    },
+    {
+        "id": "104",
+        "seriesId": "1",
+        "title": "Lego_Robot.avi",
+        "added": "2014-03-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "avi",
+        "comments": "1",
+        "duration": null,
+        "size": "404252",
+        "mimeType": "video\/x-msvideo",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Lego Robot",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "The video represent Lego Robot. Children in the future will have advanced technology toys more and more.",
+        "author": {
+            "name": "Peter Jackson",
+            "email": "peter.jackson111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "interestring",
+                "usageCount": "5"
+            }
+        ]
+    },
+    {
+        "id": "105",
+        "seriesId": "1",
+        "title": "Template_for_Preparation_of_Papers_for_IEEE_Sponsored_Conferences_Symposia.doc",
+        "added": "2014-02-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "doc",
+        "comments": "1",
+        "duration": null,
+        "size": "37888",
+        "mimeType": "application\/msword",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Template for Preparation of Papers for IEEE Sponsored Conferences Symposia",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Template for Preparation of Papers for IEEE Sponsored Conferences Symposia. It is used for all the conferences that accapt papers in IEEE format.",
+        "author": {
+            "name": "Janet Freud",
+            "email": "janet.freud111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "science",
+                "usageCount": "4"
+            }
+        ]
+    },
+    {
+        "id": "106",
+        "seriesId": "1",
+        "title": "Frank_doesnt_like_my_puns.flv",
+        "added": "2014-02-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "flv",
+        "comments": "1",
+        "duration": null,
+        "size": "588306",
+        "mimeType": "video\/x-flv",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Frank doesnt like my puns",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Frank doesnt like my puns - The girl with the red hair states that the Frank, who is sitting next to her, does not like her puns.",
+        "author": {
+            "name": "Janet Freud",
+            "email": "janet.freud111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "interestring",
+                "usageCount": "5"
+            }
+        ]
+    },
+    {
+        "id": "107",
+        "seriesId": "1",
+        "title": "Lost_Woods_Piano.mov",
+        "added": "2014-01-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "mov",
+        "comments": "1",
+        "duration": null,
+        "size": "369655",
+        "mimeType": "video\/quicktime",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Lost Woods Piano",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Lost Woods Piano - Girl with the red hair stripe plays piano rather well.",
+        "author": {
+            "name": "Jack Sullivan",
+            "email": "jack.sullivan111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "interestring",
+                "usageCount": "5"
+            }
+        ]
+    },
+    {
+        "id": "108",
+        "seriesId": "1",
+        "title": "Story_of_My_Life.mp3",
+        "added": "2014-01-03T18:35:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "mp3",
+        "comments": "1",
+        "duration": null,
+        "size": "266657",
+        "mimeType": "audio\/mpeg3",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Story of My Life",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Story of My Life - This is story of my life and the story of many people's lives.",
+        "author": {
+            "name": "Jack Sullivan",
+            "email": "jack.sullivan111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "music",
+                "usageCount": "2"
+            }
+        ]
+    },
+    {
+        "id": "109",
+        "seriesId": "1",
+        "title": "Why_you_cant_listen_to_dubstep_while_doing_things.mp4",
+        "added": "2014-01-03T18:37:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "mp4",
+        "comments": "1",
+        "duration": null,
+        "size": "467285",
+        "mimeType": "video\/mp4",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Why you cant listen to dubstep while doing things",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Why you cant listen to dubstep while doing things - Because it looks pretty stupid and you can hurt yourself.",
+        "author": {
+            "name": "Samuel Jackson",
+            "email": "samuel.jackson111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "interestring",
+                "usageCount": "5"
+            }
+        ]
+    },
+    {
+        "id": "110",
+        "seriesId": "1",
+        "title": "Life_With_Michael.mpeg",
+        "added": "2014-01-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "mpeg",
+        "comments": "1",
+        "duration": null,
+        "size": "376832",
+        "mimeType": "audio\/mpeg",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Life With Michael",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Life With Michael - sometimes it is fun, sometimes it is boring,but mostly it is dump.",
+        "author": {
+            "name": "Samuel Jackson",
+            "email": "samuel.jackson111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "interestring",
+                "usageCount": "5"
+            }
+        ]
+    },
+    {
+        "id": "111",
+        "seriesId": "1",
+        "title": "When_people_get_into_a_song_and_dont_actually_know_the_lyrics.ogg",
+        "added": "2014-08-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "ogg",
+        "comments": "1",
+        "duration": null,
+        "size": "1276883",
+        "mimeType": "video\/ogg",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "When people get into a song and dont actually know the lyrics",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "When people get into a song and dont actually know the lyrics - they look dump. If you don't know the lyrics, do not get into the song.",
+        "author": {
+            "name": "Hans Zimmer",
+            "email": "hans.zimmer111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            }
+        ]
+    },
+    {
+        "id": "112",
+        "seriesId": "1",
+        "title": "How_to_compile_a_tex_file_to_a_pdf_file.pdf",
+        "added": "2014-09-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "pdf",
+        "comments": "1",
+        "duration": null,
+        "size": "54836",
+        "mimeType": "application\/pdf",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "How to compile a tex file to a pdf file",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "How to compile a tex file to a pdf file - working with Tex files gives you greater control and the final product looks much more pretty than when done with MS Word.",
+        "author": {
+            "name": "Hans Zimmer",
+            "email": "hans.zimmer111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "science",
+                "usageCount": "4"
+            }
+        ]
+    },
+    {
+        "id": "113",
+        "seriesId": "1",
+        "title": "University_of_Tennessee_Information.pptx",
+        "added": "2014-10-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "pptx",
+        "comments": "1",
+        "duration": null,
+        "size": "50293",
+        "mimeType": "application\/vnd.openxmlformats-officedocument.presentationml.presentation",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "University of Tennessee Information",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "University of Tennessee Information - This presentation contains all the neccessary information for the University of Tennessee",
+        "author": {
+            "name": "Daniel Overeem",
+            "email": "daniel.overeem111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "science",
+                "usageCount": "4"
+            }
+        ]
+    },
+    {
+        "id": "114",
+        "seriesId": "1",
+        "title": "Sometimes_you_gotta_Let_It_Go.wav",
+        "added": "2014-11-03T18:38:18.143Z",
+        "updated": "2014-04-03T18:38:18.143Z",
+        "downloads": "1",
+        "rating": "5",
+        "ratings": "1",
+        "isLinkedMedia": "0",
+        "link": null,
+        "ext": "wav",
+        "comments": "1",
+        "duration": null,
+        "size": "1146960",
+        "mimeType": "audio\/x-wav",
+        "hasTranscript": "0",
+        "transcriptExt": null,
+        "transcriptSize": null,
+        "transcriptMimeType": null,
+        "additionalFiles": [
+
+        ],
+        "summary": "Sometimes you gotta Let It Go",
+        "language": "English",
+        "hasCaptions": "0",
+        "captionsExt": null,
+        "captionsRating": null,
+        "captionsRatings": null,
+        "pulseId": "0",
+        "description": "Sometimes you gotta Let It Go - Let it Go - Get it? - From the movie Let if Go :)",
+        "author": {
+            "name": "Daniel Overeem",
+            "email": "daniel.overeem111@gmail.com"
+        },
+        "tags": [
+            {
+                "tag": "fun",
+                "usageCount": "13"
+            },
+            {
+                "tag": "music",
+                "usageCount": "2"
+            }
+        ]
+    }
+]
